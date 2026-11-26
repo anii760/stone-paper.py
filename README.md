@@ -28,5 +28,5 @@ python stone_paper.py
 - Scissors beats Paper.
 - Paper beats Stone.
 
-## Author
+## coder
 Anushka Kustwar
